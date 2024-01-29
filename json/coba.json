@@ -1,0 +1,30 @@
+[
+    {
+    "nama" : "Aziz Nurul Hidayat ",
+    "umur" : 28,
+    "nrp" : "12914007",
+    "lulus" : true,
+    "hobby" : [
+      "coding",
+      "game"
+    ],
+    "pembimbing" : {
+      "pembimbing1" : "Ivonne M Radjawane",
+      "pembimbing2" : "Marissa L"
+    }
+  },
+  {
+    "nama" : "Aziz Nurul Hidayat ",
+    "umur" : 28,
+    "nrp" : "12914007",
+    "lulus" : true,
+    "hobby" : [
+      "coding",
+      "game"
+    ],
+    "pembimbing" : {
+      "pembimbing1" : "Ivonne M Radjawane",
+      "pembimbing2" : "Marissa L"
+    }
+  }
+]
